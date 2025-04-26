@@ -42,7 +42,7 @@ database.db                      # SQLite database
    ```
 3. Install the required dependencies:
    ```bash
-   pip install flask
+   pip install -r requirements.txt
    ```
 4. Run the application:
    ```bash
